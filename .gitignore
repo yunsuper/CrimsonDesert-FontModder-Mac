@@ -1,0 +1,23 @@
+#macOS 시스템 파일
+
+.DS_Store
+
+#파이썬 임시 파일
+
+pycache/
+*.py[cod]
+*$py.class
+
+#실행 시 생성되는 로그 및 임시 파일
+
+files.txt
+*.bak
+*.log
+
+#가상 환경
+
+.venv/
+venv/
+.env
+
+ListAllFiles.py
