@@ -58,7 +58,7 @@ If the game updates and the font resets, simply run the tool again.
 ## 📜 Credits & Ethics
 Inspired by the font patching methods found in various Windows mods on Nexus Mods.
 
-This tool is an original Python implementation developed specifically for macOS by Cherry (yunsuper1).
+This tool is an original Python implementation developed specifically for macOS by yunsuper.
 
 Nexus Mods Page: [Mod#115](https://www.nexusmods.com/crimsondesert/mods/115)
 
