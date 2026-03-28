@@ -66,3 +66,5 @@ Nexus Mods Page: [Mod#115](https://www.nexusmods.com/crimsondesert/mods/115)
 
 ## ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
+
+Created by: yunsuper (GitHub) / yunsuper1 (NexusMods)
